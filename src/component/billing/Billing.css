@@ -1,0 +1,29 @@
+.cardtop {
+  background-image: url(../../images/billing/basic.png);
+  background-repeat: no-repeat;
+  width: 300px;
+  height: auto;
+  justify-items: center;
+  padding: 40px;
+  border-top-right-radius: 1.25rem;
+  color: #f4f4f4;
+}
+.plan {
+  height: 500px;
+  width: 300px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 1.25rem !important;
+}
+
+.basic_plan {
+  padding: 40px;
+}
+.plan {
+  justify-content: center;
+}
+.upgradebtn {
+  border-radius: 0.5rem !important;
+}
+.Mettings {
+  margin-bottom: 200px;
+}

@@ -1,0 +1,108 @@
+body {
+  background-image: url("../images/bodyBg.svg");
+  background-size: cover;
+  background-color: #e6e6e6 !important;
+}
+/* .footer,
+.bottomFooter {
+  display: none;
+} */
+.joinheader {
+  background: #fff;
+  box-shadow: 0px 0px 16px 0px rgb(0 0 0 / 30%);
+  padding: 16px 0px 16px 0px;
+  height: 100px;
+}
+p.timedate {
+  color: #142f51;
+  font-weight: 800;
+  font-size: 34px;
+  padding: 10px 20px;
+  display: inline-block;
+  vertical-align: top;
+  position: relative;
+}
+p.aft:after {
+  content: "|";
+  position: absolute;
+  right: 0;
+}
+.hdLogo {
+  display: inline-block;
+}
+.hdLogo .logo {
+  vertical-align: auto !important;
+}
+a.iconSet {
+  display: inline-block;
+  margin-left: 40px;
+  padding: 10px;
+}
+.joinMeet {
+  background-image: url("../images/Background-Image.svg");
+  background-size: cover;
+}
+.useDiv {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  background: #ffffff;
+  padding: 16px;
+  box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 30%);
+  border-radius: 8px;
+}
+.useDiv img {
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.joinSpace {
+  padding: 150px 0px;
+}
+#userName {
+  font-size: 80px !important;
+  font-weight: 700;
+}
+.joinSend {
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0px 0px 6px 0px rgb(0 0 0 / 30%);
+  padding-bottom: 16px;
+  text-align: center;
+}
+.topJoin {
+  font-size: 32px;
+  background: #2d8cff;
+  color: #fff;
+  padding: 20px 16px;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+}
+.topJoin:before {
+  content: "+";
+  position: absolute;
+  left: 16px;
+  top: 0;
+  font-size: 60px;
+}
+.leftsection {
+  padding-top: 66px;
+}
+.leftAlign {
+  text-align: left !important;
+  display: block;
+  margin-bottom: 16px;
+  font-weight: 600;
+  font-size: 24px;
+}
+.formMeeting {
+  padding: 32px 30px;
+}
+.form-check {
+  text-align: left;
+}
+.rightAlign {
+  text-align: right;
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <filter id="Rectangle_979" x="0" y="0" width="69" height="69" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="User-Icon-1" transform="translate(-589.333 -289.333)">
+    <g transform="matrix(1, 0, 0, 1, 589.33, 289.33)" filter="url(#Rectangle_979)">
+      <rect id="Rectangle_979-2" data-name="Rectangle 979" width="51" height="51" rx="10" transform="translate(9 6)" fill="#2d8cff"/>
+    </g>
+    <g id="Group_4570" data-name="Group 4570" transform="translate(612.954 307.901)">
+      <g id="user" transform="translate(0 0)">
+        <path id="Path_2897" data-name="Path 2897" d="M27.53,30.574V27.882A5.382,5.382,0,0,0,22.147,22.5H11.382A5.382,5.382,0,0,0,6,27.882v2.691" transform="translate(-6 -6.353)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Path_2898" data-name="Path 2898" d="M22.765,9.882A5.382,5.382,0,1,1,17.382,4.5,5.382,5.382,0,0,1,22.765,9.882Z" transform="translate(-6.618 -4.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

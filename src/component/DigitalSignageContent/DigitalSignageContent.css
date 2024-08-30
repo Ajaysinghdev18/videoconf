@@ -1,0 +1,25 @@
+  
+.Digital_Signage_Content{
+    /* background-image: url(../../images/zoomroom/Backgroundimage.png); */
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position:top;
+    width: 100%;
+    color: #142f53 !important;
+}
+.note{
+    background-color: rgba(59, 131, 246, 0.897);
+    margin: 2%;
+    color: #f4f4f4;
+    height: 80px;
+    text-align: center;
+
+}
+
+.Digital_Signage_Content{
+    margin-bottom: 200px;
+}
+
+.note_info a {
+    color: yellow;
+}

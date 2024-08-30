@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.338" height="16.502" viewBox="0 0 18.338 16.502">
+  <g id="Video-Icon" transform="translate(-17.266 -20.529)">
+    <g id="_001-video-call" data-name="001-video-call" transform="translate(17.315 22.336)">
+      <g id="Group_5082" data-name="Group 5082" transform="translate(0 0)">
+        <path id="Path_30474" data-name="Path 30474" d="M17.717,81.129H16a.575.575,0,0,0-.406.164l-.972.965h-.909v-.564A1.7,1.7,0,0,0,12,80H1.715A1.7,1.7,0,0,0,0,81.693v9.03a1.7,1.7,0,0,0,1.715,1.693H12a1.7,1.7,0,0,0,1.715-1.693v-.564h.909l.977.965a.575.575,0,0,0,.4.164h1.715a.568.568,0,0,0,.572-.564v-9.03A.568.568,0,0,0,17.717,81.129Zm-.572,9.03h-.909l-.977-.965a.575.575,0,0,0-.4-.164H13.145a.568.568,0,0,0-.572.564v1.129a.568.568,0,0,1-.572.564H1.715a.568.568,0,0,1-.572-.564v-9.03a.568.568,0,0,1,.572-.564H12a.568.568,0,0,1,.572.564v5.644h1.143V83.386h1.143a.575.575,0,0,0,.406-.164l.972-.965h.909Z" transform="translate(0 -80)" fill="#949494"/>
+      </g>
+    </g>
+    <g id="Group_5105" data-name="Group 5105" transform="translate(17.973 21.236)">
+      <line id="Line_54" data-name="Line 54" x2="15.088" y2="15.088" fill="none" stroke="#949494" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

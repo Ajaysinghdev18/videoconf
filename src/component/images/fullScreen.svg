@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.75" height="21.75" viewBox="0 0 27.75 21.75">
+  <g id="Full_Screen-Icon" data-name="Full Screen-Icon" transform="translate(0.5 0.5)">
+    <path id="Path_30517" data-name="Path 30517" d="M6.67,0H0V6.67H.741V.741H6.67Zm0,0" stroke="#142f51" stroke-width="1"/>
+    <path id="Path_30518" data-name="Path 30518" d="M309.929,6.67h.741V0H304V.741h5.929Zm0,0" transform="translate(-283.92)" stroke="#142f51" stroke-width="1"/>
+    <path id="Path_30519" data-name="Path 30519" d="M.741,304H0v6.67H6.67v-.741H.741Zm0,0" transform="translate(0 -289.92)" stroke="#142f51" stroke-width="1"/>
+    <path id="Path_30520" data-name="Path 30520" d="M310.67,304h-.741v5.929H304v.741h6.67Zm0,0" transform="translate(-283.92 -289.92)" stroke="#142f51" stroke-width="1"/>
+  </g>
+</svg>

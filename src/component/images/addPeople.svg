@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Add-People-Icon" transform="translate(0.417 0.5)">
+    <g id="Ellipse_267" data-name="Ellipse 267" transform="translate(-0.417 -0.5)" fill="none" stroke="#142f51" stroke-width="2">
+      <circle cx="24" cy="24" r="24" stroke="none"/>
+      <circle cx="24" cy="24" r="23" fill="none"/>
+    </g>
+    <g id="_008-add-user" data-name="008-add-user" transform="translate(13.416 13.106)">
+      <g id="Group_5121" data-name="Group 5121" transform="translate(0 0)">
+        <g id="Group_5120" data-name="Group 5120">
+          <path id="Path_30488" data-name="Path 30488" d="M10.317.5A5.963,5.963,0,0,0,6.942,11.378,10.333,10.333,0,0,0,0,21.133H1.612a8.715,8.715,0,0,1,8.7-8.7A5.964,5.964,0,0,0,10.317.5Zm0,10.317a4.352,4.352,0,1,1,4.352-4.352A4.357,4.357,0,0,1,10.317,10.816Z" transform="translate(0 -0.499)" fill="#142f51"/>
+        </g>
+      </g>
+      <g id="Group_5123" data-name="Group 5123" transform="translate(12.292 12.251)">
+        <g id="Group_5122" data-name="Group 5122">
+          <path id="Path_30489" data-name="Path 30489" d="M309.4,307.291v-3.385H307.79v3.385H304.4V308.9h3.385v3.385H309.4V308.9h3.385v-1.612Z" transform="translate(-304.405 -303.906)" fill="#142f51"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

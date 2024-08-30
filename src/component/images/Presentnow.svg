@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.582" height="35.03" viewBox="0 0 35.582 35.03">
+  <g id="Present_Now" data-name="Present Now" transform="translate(-17453 -876.989)">
+    <g id="_005-tv-screen" data-name="005-tv-screen" transform="translate(17453 878.669)">
+      <path id="Path_30507" data-name="Path 30507" d="M32.884,2.5H2.7A2.7,2.7,0,0,0,0,5.2V27.569a2.7,2.7,0,0,0,2.7,2.7h10.07v2.791H10.884a1.116,1.116,0,1,0,0,2.233H24.7a1.116,1.116,0,0,0,0-2.233H22.814V30.268h10.07a2.7,2.7,0,0,0,2.7-2.7V5.2A2.7,2.7,0,0,0,32.884,2.5Zm-12.3,30.559H15V30.268h5.581Zm12.768-5.489a.467.467,0,0,1-.465.466H2.7a.467.467,0,0,1-.465-.466V5.2A.467.467,0,0,1,2.7,4.733H32.884a.467.467,0,0,1,.465.466Z" transform="translate(0 -1.942)" fill="#142f51"/>
+      <rect id="Rectangle_1749" data-name="Rectangle 1749" width="14" height="5" transform="translate(10.916 0.465)" fill="#fff"/>
+    </g>
+    <g id="_007-up-arrow" data-name="007-up-arrow" transform="translate(17463.605 876.989)">
+      <g id="Group_5151" data-name="Group 5151" transform="translate(0 0)">
+        <path id="Path_30506" data-name="Path 30506" d="M55.144,6.314,49.1.267a.925.925,0,0,0-1.3,0L41.749,6.314a.918.918,0,0,0,0,1.3l.549.549a.91.91,0,0,0,.648.267A.928.928,0,0,0,43.6,8.16l3.536-3.528V21.774a.905.905,0,0,0,.9.917h.777a.94.94,0,0,0,.941-.917V4.592L53.311,8.16a.908.908,0,0,0,1.287,0l.547-.549A.917.917,0,0,0,55.144,6.314Z" transform="translate(-41.481 0)" fill="#142f51"/>
+      </g>
+    </g>
+  </g>
+</svg>

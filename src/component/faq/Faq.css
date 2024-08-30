@@ -1,0 +1,27 @@
+.faqSection {
+  background: #f3f6f7;
+  padding: 50px 0px;
+}
+.faqDiv {
+  background: #ffffff;
+  padding: 50px 16px;
+  box-shadow: 0 0 10px -1px rgb(0 0 0 / 20%);
+  border-radius: 10px;
+  position: relative;
+}
+.MuiPaper-elevation1 {
+  box-shadow: none !important;
+}
+.MuiAccordion-rounded,
+.MuiAccordionSummary-root,
+.MuiAccordionDetails-root {
+  padding: 0px !important;
+}
+.MuiAccordion-root.Mui-expanded {
+  padding: 8px 16px !important;
+  margin: 0px !important;
+  background: #f3f6f7;
+  border-radius: 10px;
+  border-bottom: 1px solid #8080805e;
+  border-top: 1px solid #8080805e;
+}

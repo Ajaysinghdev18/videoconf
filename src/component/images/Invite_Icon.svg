@@ -1,0 +1,11 @@
+<svg id="Invite-Icon" xmlns="http://www.w3.org/2000/svg" width="41.76" height="41.76" viewBox="0 0 41.76 41.76">
+  <g id="Group_5074" data-name="Group 5074">
+    <rect id="Rectangle_743" data-name="Rectangle 743" width="41.76" height="41.76" rx="10" transform="translate(0 0)" fill="#fff"/>
+  </g>
+  <g id="Icon_feather-user-plus" data-name="Icon feather-user-plus" transform="translate(8.587 10.492)">
+    <path id="Path_30467" data-name="Path 30467" d="M18.584,29.334V27.056A4.556,4.556,0,0,0,14.028,22.5H6.056A4.556,4.556,0,0,0,1.5,27.056v2.278" transform="translate(-1.5 -8.833)" fill="none" stroke="#2d8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_30468" data-name="Path 30468" d="M15.861,9.056A4.556,4.556,0,1,1,11.306,4.5,4.556,4.556,0,0,1,15.861,9.056Z" transform="translate(-2.764 -4.5)" fill="none" stroke="#2d8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_30469" data-name="Path 30469" d="M30,12v6.834" transform="translate(-8.361 -6.305)" fill="none" stroke="#2d8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_30470" data-name="Path 30470" d="M32.334,16.5H25.5" transform="translate(-7.277 -7.389)" fill="none" stroke="#2d8cff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+body {
+  background-image: url("../images/bodyBg.svg");
+  background-size: cover;
+}
+.meetvideo .pcPick {
+  width: 100%;
+}
+.joinMeet {
+  background-image: url("../images/Background-Image.svg");
+  background-size: cover;
+}
+.hed_top {
+  background-image: url("../images/bck.png");
+  background-size: cover;
+  padding: 16px 32px;
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+a.joinBtn {
+  border: 1px solid #ffffff;
+  display: inline-block;
+  background: #ffffff;
+  padding: 8px 20px;
+  border-radius: 4px;
+  font-weight: 500;
+  margin-right: 16px;
+}
+a.sharescreenBtn {
+  border: 1px solid #ffffff;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 4px;
+  font-weight: 500;
+  margin-right: 16px;
+  color: #ffffff !important;
+}
+.dataTxt {
+  text-align: left;
+  padding: 16px 32px;
+}
+.dataTxt p {
+  margin-bottom: 0.5rem;
+}
+.urlLink {
+  margin-bottom: 0;
+}
+.urlLink a {
+  color: #000000 !important;
+}
+.copyLink {
+  text-decoration: underline !important;
+}
+button#Popover-undefined {
+  background: none;
+  position: absolute;
+  right: 0%;
+  bottom: 0%;
+}
+.meetvideo {
+  position: relative;
+  top: 50%;
+  left: 0;
+  transform: translate(0px, -50%);
+}
+a.tog_link {
+  display: block;
+  color: #000;
+  margin: 4px 0px;
+}
+a.tog_link img {
+  margin-right: 10px;
+}
+.layers_section {
+  position: absolute;
+  width: 100%;
+  bottom: 16px;
+  text-align: center;
+}
+a.layerBtn {
+  display: inline-block;
+  margin: 0px 15px;
+}
+.joinSend {
+  padding-bottom: 0px;
+}

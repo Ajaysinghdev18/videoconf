@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Report_Problem" data-name="Report Problem" transform="translate(-13631 -894)">
+    <g id="_017-closed-caption" data-name="017-closed-caption" transform="translate(13631 894)">
+      <path id="Path_30482" data-name="Path 30482" d="M14.907.007H1.094A1.1,1.1,0,0,0,0,1.1V11.265a1.1,1.1,0,0,0,1.094,1.094H5.383a.155.155,0,0,1,.139.086l1.5,2.964a1.094,1.094,0,0,0,1.951,0l1.5-2.964a.155.155,0,0,1,.139-.086h4.289A1.1,1.1,0,0,0,16,11.265V1.1A1.1,1.1,0,0,0,14.907.007Zm.156,11.258a.156.156,0,0,1-.156.156H10.617a1.089,1.089,0,0,0-.976.6l-1.5,2.964a.156.156,0,0,1-.279,0l-1.5-2.964a1.089,1.089,0,0,0-.976-.6H1.094a.156.156,0,0,1-.156-.156V1.1A.156.156,0,0,1,1.094.945H14.907a.156.156,0,0,1,.156.156Z" transform="translate(0 -0.007)"/>
+    </g>
+    <g id="_019-exclamation" data-name="019-exclamation" transform="translate(13638.338 896.931)">
+      <path id="Path_30478" data-name="Path 30478" d="M201.112,5.414,201.42,1.6V0H200.1V1.6l.326,3.817Z" transform="translate(-200.1)"/>
+      <rect id="Rectangle_1732" data-name="Rectangle 1732" width="1.225" height="1.007" transform="translate(0.047 6.195)"/>
+    </g>
+  </g>
+</svg>

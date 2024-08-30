@@ -1,0 +1,11 @@
+.topnav {
+  margin-left: auto !important;
+}
+.topnav .nav-link {
+  color: #295f88 !important;
+  font-weight: 700;
+  margin-left: 32px;
+}
+.backTophead {
+  background: #f6f9fe;
+}

@@ -1,0 +1,52 @@
+.download_center_heading {
+  color: white;
+  display: flex;
+  background-color: cornflowerblue;
+  padding: 0px 32px;
+  position: relative;
+  height: 130px;
+  align-items: center;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px -1px rgb(0 0 0 / 20%);
+}
+.download_center h3 {
+  color: darkslategrey;
+  text-align: left;
+}
+
+.download_center_info {
+  margin: 2% 0px;
+  padding: 16px;
+}
+.download_center_detai {
+  justify-content: center;
+}
+.download_center_app {
+  text-align: center;
+}
+.download_center_dropdown {
+  float: right;
+  margin: 15px;
+}
+#Btntran {
+  background: transparent;
+}
+button.btn.btn-primary.btn-sm svg {
+  height: 32px;
+  width: 32px;
+}
+.download_center {
+  margin-bottom: 200px;
+}
+.download_center .dropdown button {
+  border-bottom: none !important;
+}
+.download_center .dropdown-menu {
+  box-shadow: 0px 0px 10px -1px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  padding: 16px;
+}
+.download_center .dropdown-menu .dropdown-item:hover,
+.download_center .dropdown-menu .dropdown-item:active {
+  background: #ffffff;
+}

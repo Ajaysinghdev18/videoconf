@@ -1,0 +1,41 @@
+.whiteBg {
+  background: #ffffff;
+  padding: 47px 16px;
+  box-shadow: 0px 0px 10px -1px rgb(0 0 0 / 20%);
+  border-radius: 10px;
+  height: 125px;
+}
+.imgBrand {
+  text-align: center;
+  position: relative;
+}
+.slick-slide img {
+  display: inline-table !important;
+}
+.slick-next:before,
+.slick-prev:before {
+  font-size: 36px !important;
+  line-height: 1 !important;
+  opacity: 1 !important;
+  color: #2e89f8 !important;
+}
+.slick-next {
+  right: -30px !important;
+}
+.slick-prev {
+  left: -30px !important;
+}
+.slick-next,
+.slick-prev {
+  width: 36.5px !important;
+  height: 36.5px !important;
+}
+.imgBrand:after {
+  content: "";
+  width: 1px;
+  height: 54px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: gray;
+}

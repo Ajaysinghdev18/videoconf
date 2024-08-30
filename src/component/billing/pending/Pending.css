@@ -1,0 +1,12 @@
+.pendingplan{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.5rem;
+}
+
+.pendingbody {
+    text-align: center;
+    padding-bottom: 50%;
+    background-image: url(../../../images/billing/pending.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+}

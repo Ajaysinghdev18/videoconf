@@ -1,0 +1,279 @@
+.Signup {
+  background-image: url(../../images/signup/pattern-without.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: top;
+  width: 100%;
+  color: #142f53 !important;
+}
+
+.vmeet-top {
+  background-image: url(../../images/signup/banner.png);
+  background-position: right;
+  height: 440px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.vmeet-second {
+  margin-top: -100px;
+}
+.vidio-top-text {
+  padding-top: 110px;
+}
+
+.signup-1col-video h5 {
+  margin-top: 60px;
+}
+
+.p-ab-top-text {
+  background-color: #357bd3e6 !important;
+  text-align: center;
+  font-weight: 400;
+  border-radius: 4px;
+  padding: 3px 0px;
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  top: 188px;
+  max-width: 1140px;
+}
+
+.p-ab-top-text span {
+  position: absolute;
+  right: 20px;
+}
+
+.signup-2col-video img {
+  height: 55px;
+  margin-bottom: 10px;
+}
+
+.wfh-col h5 {
+  margin-top: 60px;
+}
+
+.rounded1 {
+  border-radius: 1rem !important;
+}
+
+.title-line {
+  height: 3px;
+  width: 100px;
+  background-color: #93c3fe;
+  margin: 0 auto;
+}
+
+.title-line-white {
+  height: 3px;
+  width: 100px;
+  background-color: #ffffff;
+  margin: 0 auto;
+}
+
+.signup-multicol {
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.signup-multicol .signup-multicol-colum {
+  flex: 0 0 auto;
+  width: 15.6666666667%;
+  padding: 15px;
+  margin-right: 11px;
+  height: 265px;
+}
+
+.signup-multicol .signup-multicol-colum:nth-child(even) {
+  margin-top: 40px;
+}
+
+.signup-multicol .signup-multicol-colum img {
+  height: 55px;
+  margin-bottom: 10px;
+}
+
+.section2bg {
+  background-image: url(../../images/signup/section2bg.png);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 3rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.progress-text {
+  position: absolute;
+  width: 100%;
+  top: 95%;
+  left: 100%;
+  transform: translate(-100%, -100%);
+  flex-direction: column;
+}
+
+.CircularProgressbar .CircularProgressbar-trail {
+  stroke: #2d8cff !important;
+  stroke-linecap: round;
+}
+.CircularProgressbar .CircularProgressbar-path {
+  stroke: #ffffff !important;
+  stroke-linecap: unset !important;
+  transition: stroke-dashoffset 0.5s ease 0s;
+}
+
+.section3bg {
+  background-color: #f6f9fe;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section4bg {
+  background-image: url(../../images/signup/section4bg.png);
+  background-size: cover;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  margin-top: -100px;
+  background-position: center;
+}
+
+.vmeet-btn-1 {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 50px;
+  text-decoration: unset;
+  text-align: center;
+  display: inline-block;
+  color: #357bd3;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.section5bg {
+  margin-top: -100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-repeat: no-repeat;
+  background-image: url(../../images/signup/section5bg.png);
+  background-size: contain;
+}
+
+.vmeet-btn-2 {
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: unset;
+  text-align: center;
+  display: inline-block;
+  color: #357bd3;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.vmeet-btn-3 {
+  background: rgb(46, 138, 250);
+  background: linear-gradient(
+    90deg,
+    rgba(46, 138, 250, 1) 0%,
+    rgba(53, 123, 211, 1) 35%
+  );
+  padding: 10px;
+  text-decoration: unset;
+  text-align: center;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.hardware-line {
+  height: 3px;
+  width: 100px;
+  background-color: #93c3fe;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.hardware-col-text .hardwarecol-download:nth-child(even) {
+  background-color: #f6f9fe;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+.hardwarecol-download img {
+  height: 20px;
+}
+
+.dardwaremaincol {
+  height: 516px;
+  overflow: auto;
+}
+
+.hardware-col-text .hardwarecol-download:nth-child(odd) {
+  background-color: #ffffff;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+.mr-10 {
+  margin-right: 10px;
+}
+
+.hardwarecol-download .float-right {
+  float: right;
+}
+
+.vmeet-btn-3-outline {
+  padding: 10px;
+  text-decoration: unset;
+  text-align: center;
+  display: inline-block;
+  border: 2px solid #357bd3;
+  color: #357bd3;
+  font-weight: 500;
+  margin-top: 20px;
+  width: 200px;
+}
+
+.vmeet-btn-4 {
+  background: rgb(46, 138, 250);
+  background: linear-gradient(270deg, #285c7a 0%, #153153 35%);
+  text-decoration: unset;
+  text-align: center;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 500;
+  outline: 0;
+  box-shadow: unset;
+}
+
+.vmeet-btn-5 {
+  background: rgb(46, 138, 250);
+  background: linear-gradient(
+    90deg,
+    rgba(46, 138, 250, 1) 0%,
+    rgba(53, 123, 211, 1) 35%
+  );
+  padding: 10px;
+  text-decoration: unset;
+  text-align: center;
+  display: inline-block;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 20px;
+  width: 200px;
+}
+
+.play-btn {
+  height: 30px;
+}
+
+.btn:focus {
+  box-shadow: unset !important;
+}
+@media (min-width: 1400px) {
+  .p-ab-top-text {
+    max-width: 1320px;
+  }
+}

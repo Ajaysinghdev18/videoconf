@@ -1,0 +1,144 @@
+.webinar-col-bg{
+    background-image: url(../../images/webinar/WebinaBG.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.Rolemanagement .rocording-tabs{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.webinar-sec-bg{
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f6f9fe;
+}
+
+.top-textmeetings{
+    background-color: #2d8cff !important;
+    border-radius: 8px;
+    text-align: center;
+    padding: 5px 0;
+    color: #ffffff;
+}
+
+.active-content-role{
+    background-color: #2d8cff !important;
+    padding:10px !important;
+    color: #ffffff;
+    border-bottom-left-radius: unset !important;
+    border-bottom-right-radius: unset !important;
+}
+
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: #ffffff !important;
+    background-color: #2d8cff !important;
+    border-color: unset !important;
+}
+
+.nav-tabs .nav-link {
+    background: 0 0;
+    border: unset !important;
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: #142f53;
+}
+
+.nav-tabs {
+    border-bottom: unset !important;
+    background-color: #f6f9fe;
+    border-radius: .25rem;
+}
+
+
+.Rolemanagement .content-view-meeting{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    vertical-align: center;
+    align-items: center;
+    background: #f6f9fe;
+    border-radius: 6px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.Rolemanagement .meetingcol-1{
+    flex-basis: 80%;
+    border: unset !important;
+}
+.Rolemanagement .meetingcol-2{
+    text-align: right;
+    flex-basis: 10%;
+}
+
+.Rolemanagement .meetingcol-3{
+    text-align: right;
+    flex-basis: 10%;
+}
+
+.Rolemanagement .input-group-prepend{
+    border-top-right-radius: unset;
+    border-bottom-right-radius: unset;
+    padding: 0.25rem 0rem;
+    border-right: unset !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #f6f9fe;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.Rolemanagement .tablesearchbutton{
+    line-height: 26px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    background-color: #2d8cff;
+    color: #ffffff;
+}
+
+.Rolemanagement .create-group-btn{
+    line-height: 26px;
+    background-color: #2d8cff;
+    color: #ffffff;
+}
+
+.Rolemanagement .input-group-text{
+    background-color: #ffffff;
+    border: unset;
+}
+
+.Rolemanagement .prweww-col .form-control{
+    border-left: unset !important;
+}
+
+.Rolemanagement .prweww-col .form-control:focus{
+    border: 1px solid #ced4da;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.Rolemanagement .ezEBKV{
+    background-color: #2d8cff;
+    color: #fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.Rolemanagement .ezEBKV .rdt_TableCol_Sortable{
+    color: #fff;
+}

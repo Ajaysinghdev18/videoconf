@@ -1,0 +1,50 @@
+.footer {
+  background-image: url("../images/footer.png");
+  background-size: cover;
+  padding: 100px 0px 30px;
+  margin-top: -100px;
+}
+.w_20 {
+  width: 20%;
+  display: inline-table;
+}
+.underLine {
+  background: #2c88f3;
+  display: block;
+  width: 74%;
+  height: 2px;
+  margin-bottom: 32px;
+}
+.footer .w_20 a {
+  color: #f1e6e6;
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+.inline a {
+  display: inline-table !important;
+  margin-right: 16px;
+}
+#exampleSelect {
+  background: #295e7c;
+  color: #fff;
+  margin: 8px 0px 16px;
+}
+.footer label {
+  color: #f1e6e6;
+  display: block;
+  margin-bottom: 12px;
+  font-weight: 500;
+}
+.bottomFooter p {
+  margin: 0;
+}
+.bottomFooter {
+  background: #2d8cff;
+  padding: 12px 0px;
+  height: 50px;
+  line-height: 1.7;
+}
+.right {
+  text-align: right;
+}

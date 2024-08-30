@@ -1,0 +1,13 @@
+.Mailsend{
+    background-image: url(../../images/mailsend/Backgroundimage.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position:top;
+    width: 100%;
+    color: #142f53 !important;
+}
+
+.mailsend-main{
+    width: 800px;
+    margin: 100px auto 150px auto;
+}

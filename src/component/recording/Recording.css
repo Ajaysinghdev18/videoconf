@@ -1,0 +1,94 @@
+.webinar-col-bg {
+  background-image: url(../../images/webinar/WebinaBG.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+  padding: 20px;
+}
+.Recording {
+  margin-bottom: 200px;
+}
+.rocording-tabs {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.webinar-sec-bg {
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f6f9fe;
+}
+
+.top-textmeetings {
+  background-color: #2d8cff !important;
+  border-radius: 8px;
+  text-align: center;
+  padding: 5px 0;
+  color: #ffffff;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: #ffffff !important;
+  background-color: #2d8cff !important;
+  border-color: unset !important;
+}
+
+.nav-tabs .nav-link {
+  background: 0 0;
+  border: unset !important;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  color: #142f53;
+}
+
+.nav-tabs {
+  border-bottom: unset !important;
+  background-color: #f6f9fe;
+  border-radius: 0.25rem;
+}
+
+.Recording .content-view-meeting {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  vertical-align: center;
+  align-items: center;
+  background: #f6f9fe;
+  border-radius: 6px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.Recording .meetingcol-1 {
+  flex-basis: 20%;
+  border-right: 2px solid #212529;
+}
+.Recording .meetingcol-2 {
+  padding: 0 10px;
+  flex-basis: 50%;
+}
+.Recording .meetingcol-3 {
+  flex-basis: 30%;
+  text-align: right;
+}
+
+.active-recording {
+  background-color: #2d8cff !important;
+}
+
+.active-recording h6 {
+  color: #ffffff;
+}
+
+.active-recording a {
+  color: #ffffff;
+}
+
+.active-recording .meetingcol-1 {
+  flex-basis: 20%;
+  border-right: 2px solid #ffffff;
+}

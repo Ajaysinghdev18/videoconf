@@ -1,0 +1,344 @@
+img.w_100 {
+  width: 100%;
+  min-height: 350px;
+  height: 100%;
+  border-radius: 8px;
+}
+.customSectionFlex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.videoSection {
+  /* max-height: 800px; */
+  height: 100%;
+  padding: 16px;
+  flex-grow: 1;
+  width: calc(100% * (1 / 3) - 10px - 1px);
+  border-radius: 8px;
+}
+.bottomSection {
+  background: #ffffff;
+  /* padding: 20px 32px; */
+  box-shadow: 0px 0px 10px -1px rgb(0 0 0 / 20%);
+  margin: 0px 16px;
+  border-radius: 8px;
+  height: 100px;
+  position: relative;
+}
+.center {
+  text-align: center;
+}
+.rightbar {
+  margin: 16px 16px 0px;
+  background: #fff;
+  padding: 16px;
+  box-shadow: 0px 0px 10px -1px rgb(0 0 0 / 20%);
+  border-radius: 8px;
+  height: calc(100% - 14px);
+  position: relative;
+}
+
+p.dateLink {
+  font-size: 18px;
+  font-weight: 600;
+  color: #000;
+}
+p.dateLink {
+  font-size: 18px;
+  font-weight: 600;
+  color: #000;
+  margin-bottom: 0;
+  margin-right: 28px;
+  padding: 16px 0px;
+  position: relative;
+}
+.leftLine:after {
+  content: "|";
+  position: absolute;
+  right: -16px;
+}
+.rightbar .nav-tabs .nav-item.show .nav-link,
+.rightbar .nav-tabs .nav-link.active {
+  color: #ffffff !important;
+  background-color: #2e8cff !important;
+  border-color: #2e8cff #2e8cff #2e8cff !important;
+  padding: 4px 30px;
+  border-radius: 4px 4px 0px 0px;
+}
+.rightbar .nav-tabs .nav-link {
+  border: 1px solid transparent;
+  margin-bottom: 0;
+  padding: 4px 30px;
+}
+.rightbar .tabtxt {
+  font-weight: 500;
+  margin-left: 10px;
+}
+.rightbar .nav-link {
+  color: #000 !important;
+  cursor: pointer;
+}
+.rightbar .nav-tabs {
+  border-bottom: 3px solid #2e8cff !important;
+}
+
+.rightbar .tabslinkcustom li.nav-item {
+  width: 50%;
+  text-align: center;
+}
+.rightbar .nav-tabs .nav-link:focus,
+.rightbar .nav-tabs .nav-link:hover {
+  border-color: transparent;
+  isolation: isolate;
+}
+.rightbar .tab-content {
+  padding: 32px 0px;
+}
+.h_4 {
+  height: 2px !important;
+}
+img.userlistImg {
+  width: 100%;
+}
+.smalcon {
+  margin-left: 14px;
+}
+.mb-16 {
+  margin-bottom: 16px;
+}
+.mb-16 div {
+  position: relative;
+}
+.mb-16 div h5 {
+  position: relative;
+  top: 50%;
+  left: 0;
+  transform: translate(0%, -50%);
+  margin-bottom: 0;
+}
+#mybtn {
+  background-color: #ffffff;
+  color: #000;
+  height: 100px;
+  padding: 0px 16px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.show #mybtn {
+  background-color: #2e8cff;
+  color: #fff;
+}
+a.Iconvideo {
+  display: inline-table;
+  color: #000 !important;
+  margin-left: 4px;
+  text-align: center;
+  font-weight: 600;
+}
+.right a.Iconvideo {
+  padding: 20px 0px;
+  height: 100px;
+}
+div#dotBtndrop {
+  margin-top: -20px;
+  display: flex;
+}
+.Iconvideo img {
+  vertical-align: text-top;
+}
+.center a.Iconvideo {
+  padding: 0px;
+}
+.w_500 {
+  padding: 16px;
+  width: 600px;
+}
+.w_500 p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 0;
+}
+#tabscus li.nav-item {
+  width: 50%;
+  text-align: center;
+}
+#tabscus.nav-tabs .nav-link {
+  border: none;
+  color: #000000;
+  cursor: pointer;
+}
+#tabscus {
+  border: none;
+  padding: 4px 20px;
+}
+#tabscus.nav-tabs .nav-item.show .nav-link,
+#tabscus.nav-tabs .nav-link.active {
+  border-bottom: 2px solid #2e8cff;
+  color: #2e8cff;
+  font-weight: 500;
+}
+.attchIcon {
+  width: 20px;
+}
+.imgActive {
+  display: none;
+}
+div#dotBtndrop.show .imgActive {
+  display: block;
+}
+div#dotBtndrop.show .imgnoActive {
+  display: none;
+}
+.right a.Iconvideo:last-child {
+  position: absolute;
+  right: 0;
+}
+
+.right a.Iconvideo:nth-child(2) {
+  margin: 0px 70px 0px 10px;
+}
+.right a.Iconvideo:nth-child(2),
+.right a.Iconvideo:nth-child(1) {
+  padding: 20px 8px;
+  border-radius: 8px;
+}
+img.dpIcon {
+  width: 20px;
+  margin-right: 10px;
+}
+#dotBtndrop .dropdown-menu {
+  width: 100%;
+  min-width: 230px;
+  padding: 16px;
+}
+#dotBtndrop .nav-item a {
+  color: #000000 !important;
+  padding: 6px 0px;
+  display: block;
+}
+button#myprsnt,
+button#mysecurity {
+  background: transparent;
+  color: #000;
+  font-weight: 600;
+  height: 100px;
+  margin-top: -20px;
+}
+div#presentBtn.show button#myprsnt,
+div#mysecurityBtn.show button#mysecurity {
+  background: #2e8cff;
+  color: #ffffff;
+}
+div#presentBtn .dropdown-menu,
+div#mysecurityBtn .dropdown-menu {
+  min-width: 230px;
+  width: 100%;
+  padding: 16px;
+}
+div#presentBtn .dropdown-menu li a,
+div#mysecurityBtn .dropdown-menu li a {
+  color: #000000 !important;
+  margin: 8px 0px;
+  display: block;
+}
+div#mysecurityBtn.show #mysecurity .imgnoActive {
+  display: none;
+}
+div#mysecurityBtn.show #mysecurity .imgActive {
+  display: inherit;
+}
+label.form-check-label {
+  position: relative;
+}
+input.hiddenCheck.form-check-input {
+  visibility: hidden;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.customCheck {
+  background-image: url("../images/boxCheck.svg") !important;
+  height: 22px !important;
+  background-size: 100% 100%;
+  width: 23px !important;
+  border-radius: 0px !important;
+  border-width: 0 !important;
+  border-color: transparent !important;
+  border-style: none !important;
+  border-radius: 0px !important;
+  margin-right: 10px;
+}
+#mysecurityBtn.show .dropdown-menu {
+  min-width: 300px;
+  width: 100%;
+}
+.checkForm label,
+.checkForm h4 {
+  margin-bottom: 16px;
+}
+img.active {
+  display: none;
+}
+.tabslinkcustom .nav-item a.active .nonactive {
+  display: none;
+}
+.tabslinkcustom .nav-item a.active img.active {
+  display: initial;
+}
+.leftchat {
+  text-align: left;
+  margin-bottom: 5px;
+}
+.rightchat {
+  text-align: right;
+  margin-bottom: 5px;
+}
+.leftchat p,
+.rightchat p {
+  margin-bottom: 0px;
+}
+.bottomMsg {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  left: 0;
+  border-top: 2px solid #bdbdbd;
+  padding: 16px;
+}
+.msgBox {
+  display: flex;
+}
+.msgBox input#msg {
+  border: none;
+}
+.msgBox button.btn.btn-secondary {
+  background: none;
+}
+.participentList {
+  height: calc(70vh - 130px);
+  overflow-x: hidden;
+  padding-right: 16px;
+}
+.msgSection {
+  overflow-x: hidden;
+  padding-right: 16px;
+  height: calc(77.5vh - 130px);
+  margin-bottom: 30px;
+}
+#style-2::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+#style-2::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+
+#style-2::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: #2e8cff;
+}

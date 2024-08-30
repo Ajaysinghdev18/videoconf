@@ -1,0 +1,17 @@
+.webinar-col-bg {
+  background-image: url(../../images/webinar/WebinaBG.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.webinar-sec-bg {
+  border-radius: 8px;
+  padding: 20px;
+  background-color: #f6f9fe;
+}
+.webinar {
+  margin-bottom: 200px;
+}

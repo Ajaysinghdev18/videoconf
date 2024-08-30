@@ -1,0 +1,83 @@
+.Signin{
+    background-image: url(../../images/signin/Background\ image.svg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position:top;
+    width: 100%;
+    color: #142f53 !important;
+}
+
+.signin-main{
+    display: flex;
+    width: 800px;
+    margin: 100px auto 150px auto;
+    flex-direction: row;
+}
+.signin-img{
+    flex-basis: 48%;
+}
+
+.float-right{
+    float: right;
+}
+
+.signin-form{
+    flex-basis: 48%;
+    margin-left: 50px;
+}
+
+.btn{
+    border: unset !important;
+}
+
+.form-control{
+    background-color: #fff !important;
+}
+
+.form-control:focus{
+    box-shadow: unset !important;
+}
+
+ .kpx_loginOr {
+	position: relative;
+	font-size: 1.5em;
+	color: #aaa;
+	margin-top: 1em;
+	margin-bottom: .5em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+ .kpx_loginOr .kpx_hrOr {
+	background-color: #cdcdcd;
+	height: 1px;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+.kpx_loginOr .kpx_spanOr {
+	display: block;
+    position: absolute;
+    left: 45%;
+    top: -1px;
+    margin-left: 0;
+    background: #f6f9fe;
+    width: 3em;
+    text-align: center;
+    font-size: 16px;
+}	
+
+.w-100{
+    width: 100% !important;
+}
+.vmeet-btn-5-google{
+    background: linear-gradient( 
+268deg
+, #fc1805 0%, #df3e31 35% );
+padding: 5px 20px;
+    text-decoration: unset;
+    text-align: center;
+    display: inline-block;
+    color: #ffffff;
+    font-weight: 500;
+    border: unset !important;
+    margin-top: 0px;
+}

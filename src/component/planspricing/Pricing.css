@@ -1,0 +1,205 @@
+.topPricing {
+  padding: 50px 0px;
+}
+span.unLine {
+  display: block;
+  width: 140px;
+  height: 2px;
+  background: #2e89f8;
+  margin: 0px auto 32px auto;
+}
+span.priLength {
+  display: inline-block;
+  border: 1px solid #2e89f8;
+  border-radius: 10px;
+  font-weight: 500;
+  margin-right: 30px;
+}
+span.priLength a {
+  display: inline-block;
+  padding: 8px 16px;
+  color: #000;
+}
+span.priLength a.active {
+  background: #2e89f8;
+  color: #fff;
+  border-radius: 6px;
+}
+.text {
+  font-weight: 500;
+}
+span.myCurrancy {
+  display: inline-block;
+  position: relative;
+  min-width: 150px;
+}
+#currency {
+  border: 1px solid #2e89f8;
+  border-radius: 10px;
+}
+#priceCard {
+  background: #ffffff;
+  box-shadow: 0px 0px 10px -1px rgb(0 0 0 / 20%);
+  border-radius: 20px;
+  margin: 40px 0px;
+}
+.pricecardHead {
+  background-image: url(../images/prHead.png);
+  background-size: cover;
+  padding: 22px 16px;
+  color: #ffffff;
+}
+.pricecardHead small {
+  font-size: 11px;
+}
+.pricecardHead .rs {
+  font-weight: 600 !important;
+  font-size: 32px;
+}
+.pricecardHead h2 {
+  font-weight: 400;
+  font-size: 28px;
+}
+.pricecardHead p {
+  margin-bottom: 5px !important;
+}
+.pricecardBottom {
+  padding: 24px 24px;
+  text-align: center;
+}
+.pricecardBody {
+  padding: 24px 24px;
+  min-height: 290px;
+}
+.pricecardBottom button {
+  background: #f2f5f7;
+  color: #000;
+  width: 90%;
+  padding: 12px;
+  font-weight: 500;
+}
+.pricecardBottom p {
+  text-align: left;
+}
+svg.MuiSvgIcon-root.mr-16 {
+  font-size: 14px;
+  margin-top: 5px;
+}
+.pricecardBody .nav li {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+/* Active class add on pricing card */
+#priceCard.active .pricecardHead {
+  background-image: url(../images/activeBghead.png);
+  color: #000000;
+}
+#priceCard.active .pricecardBody,
+#priceCard.active .pricecardBottom {
+  color: #ffffff;
+  background: #2e89f8;
+}
+#priceCard.active .pricecardBottom {
+  border-radius: 0px 0px 20px 20px;
+}
+.pricecardBottom button:active,
+.pricecardBottom button:focus,
+.pricecardBottom button:hover {
+  background: #f2f5f7;
+  color: #000;
+}
+#priceCard.active .pricecardBottom button {
+  background: #ffffff;
+  color: #2e89f8;
+}
+.compareBtn {
+  color: #2e89f8;
+  border: 1px solid #2e89f8;
+  background: #ffffff;
+  text-align: center;
+  padding: 8px 24px;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: 500;
+}
+.addOnplans {
+  background-image: url(../images/pattern.png);
+  background-size: cover;
+  padding: 50px 0px;
+}
+.addOnplans .pricecardBody {
+  min-height: 420px;
+}
+#firsthead {
+  background-image: url(../images/first.png);
+}
+#secondhead {
+  background-image: url(../images/second.png);
+}
+#thirdhead {
+  background-image: url(../images/third.png);
+}
+.addOnplans .pricecardBottom {
+  text-align: left;
+}
+button#buynow {
+  background: #2e89f8;
+  width: auto;
+  color: #fff;
+  padding: 8px 16px;
+}
+button#learnmore {
+  color: #2e89f8;
+  background: #fff;
+  width: auto;
+  padding: 8px 16px;
+  float: right;
+}
+.sldrSection {
+  background: rgba(52, 158, 244, 1);
+  background: -moz-linear-gradient(
+    top,
+    rgba(52, 158, 244, 1) 0%,
+    rgba(52, 158, 244, 1) 49%,
+    rgba(243, 246, 247, 1) 50%,
+    rgba(243, 246, 247, 1) 100%
+  );
+  background: -webkit-gradient(
+    left top,
+    left bottom,
+    color-stop(0%, rgba(52, 158, 244, 1)),
+    color-stop(49%, rgba(52, 158, 244, 1)),
+    color-stop(50%, rgba(243, 246, 247, 1)),
+    color-stop(100%, rgba(243, 246, 247, 1))
+  );
+  background: -webkit-linear-gradient(
+    top,
+    rgba(52, 158, 244, 1) 0%,
+    rgba(52, 158, 244, 1) 49%,
+    rgba(243, 246, 247, 1) 50%,
+    rgba(243, 246, 247, 1) 100%
+  );
+  background: -o-linear-gradient(
+    top,
+    rgba(52, 158, 244, 1) 0%,
+    rgba(52, 158, 244, 1) 49%,
+    rgba(243, 246, 247, 1) 50%,
+    rgba(243, 246, 247, 1) 100%
+  );
+  background: -ms-linear-gradient(
+    top,
+    rgba(52, 158, 244, 1) 0%,
+    rgba(52, 158, 244, 1) 49%,
+    rgba(243, 246, 247, 1) 50%,
+    rgba(243, 246, 247, 1) 100%
+  );
+  background: linear-gradient(
+    to bottom,
+    rgba(52, 158, 244, 1) 0%,
+    rgba(52, 158, 244, 1) 49%,
+    rgba(243, 246, 247, 1) 50%,
+    rgba(243, 246, 247, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#349ef4', endColorstr='#f3f6f7', GradientType=0 );
+}
